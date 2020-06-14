@@ -1,0 +1,7 @@
+p=int(input())
+r=int(input())
+n=int(input())
+print(int(p*n*(r/100)))
+print((int(p*n*(r/100))+p))
+print((int(p*n*(r/100))*(2/100)))
+print((int(p*n*(r/100))+p)-(int(p*n*(r/100))*(2/100)))
